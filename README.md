@@ -24,5 +24,5 @@ Python 3 · Pandas · NumPy · Matplotlib · Seaborn · Google Colab
 
 ## Estrutura
 
-- [`notebook.ipynb`](notebook.ipynb) — análise completa com código
-- [`relatorio.pdf`](relatorio.pdf) — relatório formal com discussão detalhada
+- notebooks/ — análise completa com código
+- docs/ — relatório formal com discussão detalhada
