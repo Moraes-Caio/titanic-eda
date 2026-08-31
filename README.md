@@ -26,3 +26,7 @@ Python 3 · Pandas · NumPy · Matplotlib · Seaborn · Google Colab
 
 - `notebooks/` — análise completa com código
 - `docs/` — relatório formal com discussão detalhada
+
+## Autores
+
+Caio de Moraes — [LinkedIn](https://linkedin.com/in/moraes-caio)
